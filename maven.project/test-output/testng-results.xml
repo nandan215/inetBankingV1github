@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-11T15:49:20 IST" name="Default suite" finished-at="2021-08-11T15:49:21 IST" duration-ms="704">
+    <groups>
+    </groups>
+    <test started-at="2021-08-11T15:49:20 IST" name="Default test" finished-at="2021-08-11T15:49:21 IST" duration-ms="704">
+      <class name="maven.project.AmazonTest">
+        <test-method is-config="true" signature="iamFirst()[pri:0, instance:maven.project.AmazonTest@8317c52]" started-at="2021-08-11T15:49:20 IST" name="iamFirst" finished-at="2021-08-11T15:49:21 IST" duration-ms="617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iamFirst -->
+        <test-method signature="aundrfined()[pri:0, instance:maven.project.AmazonTest@8317c52]" started-at="2021-08-11T15:49:21 IST" name="aundrfined" finished-at="2021-08-11T15:49:21 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aundrfined -->
+        <test-method signature="launcbrowser()[pri:0, instance:maven.project.AmazonTest@8317c52]" started-at="2021-08-11T15:49:21 IST" name="launcbrowser" finished-at="2021-08-11T15:49:21 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launcbrowser -->
+        <test-method signature="opentheWebsite()[pri:2, instance:maven.project.AmazonTest@8317c52]" started-at="2021-08-11T15:49:21 IST" name="opentheWebsite" finished-at="2021-08-11T15:49:21 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opentheWebsite -->
+        <test-method signature="maximizeTheWindow()[pri:3, instance:maven.project.AmazonTest@8317c52]" started-at="2021-08-11T15:49:21 IST" name="maximizeTheWindow" finished-at="2021-08-11T15:49:21 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizeTheWindow -->
+        <test-method signature="waiting()[pri:4, instance:maven.project.AmazonTest@8317c52]" started-at="2021-08-11T15:49:21 IST" name="waiting" finished-at="2021-08-11T15:49:21 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waiting -->
+        <test-method signature="closeTheBrowser()[pri:5, instance:maven.project.AmazonTest@8317c52]" started-at="2021-08-11T15:49:21 IST" name="closeTheBrowser" finished-at="2021-08-11T15:49:21 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheBrowser -->
+        <test-method is-config="true" signature="iamLast()[pri:0, instance:maven.project.AmazonTest@8317c52]" started-at="2021-08-11T15:49:21 IST" name="iamLast" finished-at="2021-08-11T15:49:21 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iamLast -->
+      </class> <!-- maven.project.AmazonTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
